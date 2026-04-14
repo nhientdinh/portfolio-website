@@ -1,21 +1,44 @@
 <!DOCTYPE html>
-<html>
- <head>
-    <title> My Portfolio </title>
- </head>   
- <body>
-    
-    <h1>Nhien Dinh</h1>
-    <p>Aspiring Software Developer</p>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Nhien Portfolio</title>
+  <link rel="stylesheet" href="style.css">
+</head>
 
+<body>
+
+  <header>
+    <h1>Nhien</h1>
+    <p>Aspiring Data Analyst</p>
+  </header>
+
+  <section class="about">
+    <h2>About Me</h2>
+    <p>
+      I am a senior graduating in May with an interest in data analysis. I enjoy working with data to uncover insights, 
+      build visualizations, and solve real-world problems. Currently building projects using tools 
+      like Python, SQL, and Excel to strengthen my analytical skills.
+    </p>
+  </section>
+
+  <section class="projects">
     <h2>Projects</h2>
-    <ul>
-        <li>coming soon...</li>
-    </ul>
+    <div class="project-card">
+      <h3>Recipe App</h3>
+      <p>Web app to browse and save recipes.</p>
+    </div>
 
-    <h2>Contacts</h2>
+    <div class="project-card">
+      <h3>Portfolio Website</h3>
+      <p>This website you’re viewing right now.</p>
+    </div>
+  </section>
+
+  <section class="contact">
+    <h2>Contact</h2>
     <p>Email: nhientdinh@gmail.com</p>
+  </section>
 
-
- </body>
+</body>
 </html>
