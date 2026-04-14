@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+ <head>
+    <title> My Portfolio </title>
+ </head>   
+ <body>
+    
+    <h1>Nhien Dinh</h1>
+    <p>Aspiring Software Developer</p>
+
+    <h2>Projects</h2>
+    <ul>
+        <li>coming soon...</li>
+    </ul>
+
+    <h2>Contacts</h2>
+    <p>Email: nhientdinh@gmail.com</p>
+
+
+ </body>
+</html>
